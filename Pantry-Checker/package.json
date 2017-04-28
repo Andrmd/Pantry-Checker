@@ -1,0 +1,16 @@
+{
+  "name": "pantry-checker",
+  "version": "1.0.0",
+  "description": "Pantry-Checker",
+  "main": "test.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
